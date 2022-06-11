@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bestManyToMany/bestManyToMany.iml" filepath="$PROJECT_DIR$/bestManyToMany/bestManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestManyToOne/bestManyToMany (1).iml" filepath="$PROJECT_DIR$/bestManyToOne/bestManyToMany (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestOneToMany/bestManyToMany (2).iml" filepath="$PROJECT_DIR$/bestOneToMany/bestManyToMany (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestOneToOne/bestManyToMany (3).iml" filepath="$PROJECT_DIR$/bestOneToOne/bestManyToMany (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestManyToOne/bestManyToOne.iml" filepath="$PROJECT_DIR$/bestManyToOne/bestManyToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestOneToMany/bestOneToMany.iml" filepath="$PROJECT_DIR$/bestOneToMany/bestOneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bestOneToOne/bestOneToOne.iml" filepath="$PROJECT_DIR$/bestOneToOne/bestOneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fetchByProjection/fetchByProjection.iml" filepath="$PROJECT_DIR$/fetchByProjection/fetchByProjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-simple.iml" filepath="$PROJECT_DIR$/maven-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/useAudit/useAudit.iml" filepath="$PROJECT_DIR$/useAudit/useAudit.iml" />
+    </modules>
+  </component>
+</project>
